@@ -110,6 +110,10 @@ header {
   height: 115px;
 }
 
+#learnMore:hover {
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.6);
+}
+
 #learnMore{
   background-color: #f9f1f3;
   border: none;
